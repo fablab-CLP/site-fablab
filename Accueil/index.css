@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Arial;
+    src: url("/Arial/arial.ttf");
+}
+
+html {
+    font-family: Arial;
+}
+
+.center {
+    text-align: center;
+}
+
+.photo-defil {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;  
+    width: 800px;
+}
